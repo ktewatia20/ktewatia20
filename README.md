@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ktewatia20
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning about how to desing a website
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in becoming a Data Analyst
+- 🌱 I’m currently working on the projects which brush up my skills as a data analyst 
+- 📫 
 
 <!---
 ktewatia20/ktewatia20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
